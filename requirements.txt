@@ -1,0 +1,17 @@
+-e .
+numpy
+pandas
+tqdm
+scipy
+scikit-learn
+torch
+optuna
+matplotlib
+seaborn
+gymnasium
+stable-baselines3
+ipykernel
+pennylane
+cvxpy
+ribs[visualize]
+tabulate
